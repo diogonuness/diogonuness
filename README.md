@@ -1,27 +1,6 @@
-# Hi, I'm Diogo 👋
+# Olá, eu sou o Diogo 👋
 
-> 🇧🇷 Versão em português logo abaixo.
-
-IT Technician student at **IFTO** (Federal Institute of Tocantins, Brazil), aiming to study **Software Engineering**.
-
-### 💊 Featured project: LembreMED
-A web system that helps elderly people and their caregivers organize and remember to take their medication on time. Caregivers register medicines and schedules and track each dose; the elderly user gets a simple, accessible interface. It has separate access levels for elderly users, caregivers and administrators.
-
-Built with João Gabryel, supervised by Prof. Iury Gomes de Oliveira.  
-🔗 [lembremed.labsis.dev.br](https://lembremed.labsis.dev.br)
-
-### 🛠️ Tech stack
-PHP · Laravel · Filament · JavaScript · HTML/CSS · Figma
-
-### 🌎 Languages
-Portuguese (native) · English (B1 – Michigan English Test)
-
-### 📫 Contact
-diogonunes2711@gmail.com
-
----
-
-## 🇧🇷 Olá, eu sou o Diogo
+> 🇺🇸 English version below.
 
 Estudante do curso Técnico em Informática no **IFTO** (Araguaína – TO), com o objetivo de cursar **Engenharia de Software**.
 
@@ -38,4 +17,25 @@ PHP · Laravel · Filament · JavaScript · HTML/CSS · Figma
 Português (nativo) · Inglês (B1 – Michigan English Test)
 
 ### 📫 Contato
+diogonunes2711@gmail.com
+
+---
+
+## 🇺🇸 Hi, I'm Diogo
+
+IT Technician student at **IFTO** (Federal Institute of Tocantins, Brazil), aiming to study **Software Engineering**.
+
+### 💊 Featured project: LembreMED
+A web system that helps elderly people and their caregivers organize and remember to take their medication on time. Caregivers register medicines and schedules and track each dose; the elderly user gets a simple, accessible interface. It has separate access levels for elderly users, caregivers and administrators.
+
+Built with João Gabryel, supervised by Prof. Iury Gomes de Oliveira.  
+🔗 [lembremed.labsis.dev.br](https://lembremed.labsis.dev.br)
+
+### 🛠️ Tech stack
+PHP · Laravel · Filament · JavaScript · HTML/CSS · Figma
+
+### 🌎 Languages
+Portuguese (native) · English (B1 – Michigan English Test)
+
+### 📫 Contact
 diogonunes2711@gmail.com
