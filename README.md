@@ -2,8 +2,7 @@
 
 > 🇺🇸 English version below.
 
-Estudante do curso Técnico em Informática no **IFTO** (Araguaína – TO), bolsista de Iniciação Científica Júnior do **CNPq** e futuro estudante de **Engenharia de Software**. Procuro estágio em desenvolvimento web a partir de janeiro de 2027.
-
+Estudante do curso Técnico em Informática no **IFTO** (Araguaína – TO), bolsista de Iniciação Científica Júnior do **CNPq** e futuro estudante de **Engenharia de Software**.
 ### 💊 LembreMED
 Sistema web que ajuda idosos e seus cuidadores a organizar e lembrar de tomar medicamentos na hora certa. O cuidador cadastra os remédios e horários e acompanha as doses; o idoso tem uma interface simples e acessível. Possui níveis de acesso para idoso, cuidador e administrador.
 
@@ -32,7 +31,7 @@ Português (nativo) · Inglês (B1 – Michigan English Test)
 
 ## 🇺🇸 Hi, I'm Diogo
 
-IT Technician student at **IFTO** (Federal Institute of Tocantins, Brazil), Junior Research Fellow funded by **CNPq**, and future **Software Engineering** student. Looking for a web development internship starting January 2027.
+IT Technician student at **IFTO** (Federal Institute of Tocantins, Brazil), Junior Research Fellow funded by **CNPq**, and future **Software Engineering** student.
 
 ### 💊 LembreMED
 A web system that helps elderly people and their caregivers organize and remember to take their medication on time. Caregivers register medicines and schedules and track each dose; the elderly user gets a simple, accessible interface. It has separate access levels for elderly users, caregivers and administrators.
