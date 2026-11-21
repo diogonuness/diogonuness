@@ -3,6 +3,9 @@
 > 🇺🇸 English version below.
 
 Estudante do curso Técnico em Informática no **IFTO** (Araguaína – TO), bolsista de Iniciação Científica Júnior do **CNPq** e futuro estudante de **Engenharia de Software**.
+
+🌐 **Portfólio:** [diogonuness.github.io](https://diogonuness.github.io)
+
 ### 💊 LembreMED
 Sistema web que ajuda idosos e seus cuidadores a organizar e lembrar de tomar medicamentos na hora certa. O cuidador cadastra os remédios e horários e acompanha as doses; o idoso tem uma interface simples e acessível. Possui níveis de acesso para idoso, cuidador e administrador.
 
@@ -25,13 +28,15 @@ PHP · Laravel · Filament · JavaScript · HTML/CSS · Git · Figma
 Português (nativo) · Inglês (B1 – Michigan English Test)
 
 ### 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/diogoaraujonunes) · [Currículo Lattes](https://lattes.cnpq.br/1566913403093846) · diogonunes2711@gmail.com
+[Portfólio](https://diogonuness.github.io) · [LinkedIn](https://www.linkedin.com/in/diogoaraujonunes) · [Currículo Lattes](https://lattes.cnpq.br/1566913403093846) · diogonunes2711@gmail.com
 
 ---
 
 ## 🇺🇸 Hi, I'm Diogo
 
 IT Technician student at **IFTO** (Federal Institute of Tocantins, Brazil), Junior Research Fellow funded by **CNPq**, and future **Software Engineering** student.
+
+🌐 **Portfolio:** [diogonuness.github.io](https://diogonuness.github.io)
 
 ### 💊 LembreMED
 A web system that helps elderly people and their caregivers organize and remember to take their medication on time. Caregivers register medicines and schedules and track each dose; the elderly user gets a simple, accessible interface. It has separate access levels for elderly users, caregivers and administrators.
@@ -55,4 +60,4 @@ PHP · Laravel · Filament · JavaScript · HTML/CSS · Git · Figma
 Portuguese (native) · English (B1 – Michigan English Test)
 
 ### 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/diogoaraujonunes) · [Lattes CV](https://lattes.cnpq.br/1566913403093846) · diogonunes2711@gmail.com
+[Portfolio](https://diogonuness.github.io) · [LinkedIn](https://www.linkedin.com/in/diogoaraujonunes) · [Lattes CV](https://lattes.cnpq.br/1566913403093846) · diogonunes2711@gmail.com
